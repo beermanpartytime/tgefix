@@ -1,0 +1,9 @@
+VEN = {
+
+	add_country_modifier = { 
+		name = lama_tradegood
+		duration = -1  
+	}	
+	
+	
+}
